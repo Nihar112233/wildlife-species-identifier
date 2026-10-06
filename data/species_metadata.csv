@@ -1,0 +1,228 @@
+species_id,common_name,scientific_name,class,order,family,genus,conservation_status,habitat,diet
+WILD_0001,African Lion,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,Vulnerable (IUCN),"Savannas, Grasslands",Carnivorous
+WILD_0002,Bengal Tiger,Panthera tigris tigris,Mammalia,Carnivora,Felidae,Panthera,Endangered (IUCN),"Tropical Forests, Mangroves",Carnivorous
+WILD_0003,Siberian Tiger,Panthera tigris altaica,Mammalia,Carnivora,Felidae,Panthera,Endangered (IUCN),Boreal Coniferous Forests,Carnivorous
+WILD_0004,Cheetah,Acinonyx jubatus,Mammalia,Carnivora,Felidae,Acinonyx,Vulnerable (IUCN),"Open Grasslands, Savannas",Carnivorous
+WILD_0005,Leopard,Panthera pardus,Mammalia,Carnivora,Felidae,Panthera,Vulnerable (IUCN),"Forests, Savannas, Mountains",Carnivorous
+WILD_0006,Snow Leopard,Panthera uncia,Mammalia,Carnivora,Felidae,Panthera,Vulnerable (IUCN),High Alpine Scree and Cliffs,Carnivorous
+WILD_0007,Jaguar,Panthera onca,Mammalia,Carnivora,Felidae,Panthera,Near Threatened (IUCN),"Rainforests, Wetlands",Carnivorous
+WILD_0008,Cougar / Mountain Lion,Puma concolor,Mammalia,Carnivora,Felidae,Puma,Least Concern (IUCN),"Canyons, Mountains, Forests",Carnivorous
+WILD_0009,Eurasian Lynx,Lynx lynx,Mammalia,Carnivora,Felidae,Lynx,Least Concern (IUCN),Boreal and Mixed Forests,Carnivorous
+WILD_0010,Canada Lynx,Lynx canadensis,Mammalia,Carnivora,Felidae,Lynx,Least Concern (IUCN),"Taiga, Coniferous Forests",Carnivorous
+WILD_0011,Bobcat,Lynx rufus,Mammalia,Carnivora,Felidae,Lynx,Least Concern (IUCN),"Chaparral, Forests, Swamps",Carnivorous
+WILD_0012,Iberian Lynx,Lynx pardinus,Mammalia,Carnivora,Felidae,Lynx,Endangered (IUCN),Mediterranean Scrubland,Carnivorous
+WILD_0013,Caracal,Caracal caracal,Mammalia,Carnivora,Felidae,Caracal,Least Concern (IUCN),"Arid Savannas, Semi-deserts",Carnivorous
+WILD_0014,Serval,Leptailurus serval,Mammalia,Carnivora,Felidae,Leptailurus,Least Concern (IUCN),"Reed Beds, Savannas, Wetlands",Carnivorous
+WILD_0015,Ocelot,Leopardus pardalis,Mammalia,Carnivora,Felidae,Leopardus,Least Concern (IUCN),Tropical Rainforests,Carnivorous
+WILD_0016,Margay,Leopardus wiedii,Mammalia,Carnivora,Felidae,Leopardus,Near Threatened (IUCN),Evergreen Rain and Cloud Forests,Carnivorous
+WILD_0017,Clouded Leopard,Neofelis nebulosa,Mammalia,Carnivora,Felidae,Neofelis,Vulnerable (IUCN),Dense Tropical Rainforests,Carnivorous
+WILD_0018,Jaguarundi,Herpailurus yagouaroundi,Mammalia,Carnivora,Felidae,Herpailurus,Least Concern (IUCN),"Scrublands, Forest Edges",Carnivorous
+WILD_0019,Black-footed Cat,Felis nigripes,Mammalia,Carnivora,Felidae,Felis,Vulnerable (IUCN),Arid Grasslands of Southern Africa,Carnivorous
+WILD_0020,Sand Cat,Felis margarita,Mammalia,Carnivora,Felidae,Felis,Least Concern (IUCN),Sandy and Stony Deserts,Carnivorous
+WILD_0021,Pallas's Cat,Otocolobus manul,Mammalia,Carnivora,Felidae,Otocolobus,Least Concern (IUCN),Montane Grasslands of Central Asia,Carnivorous
+WILD_0022,Gray Wolf,Canis lupus,Mammalia,Carnivora,Canidae,Canis,Least Concern (IUCN),"Tundra, Taiga, Forests, Plains",Carnivorous
+WILD_0023,Red Fox,Vulpes vulpes,Mammalia,Carnivora,Canidae,Vulpes,Least Concern (IUCN),"Forests, Grasslands, Alpine, Suburban",Omnivorous
+WILD_0024,Arctic Fox,Vulpes lagopus,Mammalia,Carnivora,Canidae,Vulpes,Least Concern (IUCN),"Arctic Tundra, Sea Ice Edge",Carnivorous
+WILD_0025,Fennec Fox,Vulpes zerda,Mammalia,Carnivora,Canidae,Vulpes,Least Concern (IUCN),Sahara Sand Dunes,Omnivorous
+WILD_0026,Kit Fox,Vulpes macrotis,Mammalia,Carnivora,Canidae,Vulpes,Least Concern (IUCN),Arid Desert Scrub,Carnivorous
+WILD_0027,Coyote,Canis latrans,Mammalia,Carnivora,Canidae,Canis,Least Concern (IUCN),"Plains, Forests, Deserts, Urban",Omnivorous
+WILD_0028,African Wild Dog,Lycaon pictus,Mammalia,Carnivora,Canidae,Lycaon,Endangered (IUCN),"Savannas, Open Woodlands",Carnivorous
+WILD_0029,Dhole / Asiatic Wild Dog,Cuon alpinus,Mammalia,Carnivora,Canidae,Cuon,Endangered (IUCN),Dense Deciduous Tropical Forests,Carnivorous
+WILD_0030,Maned Wolf,Chrysocyon brachyurus,Mammalia,Carnivora,Canidae,Chrysocyon,Near Threatened (IUCN),"Cerrado Grasslands, Savannas",Omnivorous
+WILD_0031,Golden Jackal,Canis aureus,Mammalia,Carnivora,Canidae,Canis,Least Concern (IUCN),"Semi-arid Grasslands, Farmlands",Omnivorous
+WILD_0032,Black-backed Jackal,Lupulella mesomelas,Mammalia,Carnivora,Canidae,Lupulella,Least Concern (IUCN),"Open Savannas, Deserts",Omnivorous
+WILD_0033,Side-striped Jackal,Lupulella adusta,Mammalia,Carnivora,Canidae,Lupulella,Least Concern (IUCN),"Moist Woodlands, Marshes",Omnivorous
+WILD_0034,Dingo,Canis dingo,Mammalia,Carnivora,Canidae,Canis,Vulnerable (IUCN),"Deserts, Grasslands, Forests of Australia",Carnivorous
+WILD_0035,Raccoon Dog,Nyctereutes procyonoides,Mammalia,Carnivora,Canidae,Nyctereutes,Least Concern (IUCN),"Riparian Woodlands, Marshes",Omnivorous
+WILD_0036,Bush Dog,Speothos venaticus,Mammalia,Carnivora,Canidae,Speothos,Near Threatened (IUCN),Lowland Tropical Rainforests,Carnivorous
+WILD_0037,Brown Bear / Grizzly,Ursus arctos,Mammalia,Carnivora,Ursidae,Ursus,Least Concern (IUCN),"Forests, Alpine Meadows, Tundra",Omnivorous
+WILD_0038,Polar Bear,Ursus maritimus,Mammalia,Carnivora,Ursidae,Ursus,Vulnerable (IUCN),"Arctic Sea Ice, Coastal Shores",Carnivorous
+WILD_0039,American Black Bear,Ursus americanus,Mammalia,Carnivora,Ursidae,Ursus,Least Concern (IUCN),Coniferous and Hardwood Forests,Omnivorous
+WILD_0040,Asian Black Bear,Ursus thibetanus,Mammalia,Carnivora,Ursidae,Ursus,Vulnerable (IUCN),Montane Deciduous Forests,Omnivorous
+WILD_0041,Giant Panda,Ailuropoda melanoleuca,Mammalia,Carnivora,Ursidae,Ailuropoda,Vulnerable (IUCN),Montane Bamboo Forests,Herbivorous
+WILD_0042,Red Panda,Ailurus fulgens,Mammalia,Carnivora,Ailuridae,Ailurus,Endangered (IUCN),Himalayan Temperate Forests,Herbivorous
+WILD_0043,Sun Bear,Helarctos malayanus,Mammalia,Carnivora,Ursidae,Helarctos,Vulnerable (IUCN),Tropical Lowland Rainforests,Omnivorous
+WILD_0044,Sloth Bear,Melursus ursinus,Mammalia,Carnivora,Ursidae,Melursus,Vulnerable (IUCN),Dry Tropical Scrub and Deciduous Forests,Myrmecophagous
+WILD_0045,Spectacled Bear,Tremarctos ornatus,Mammalia,Carnivora,Ursidae,Tremarctos,Vulnerable (IUCN),Andean Cloud Forests,Herbivorous
+WILD_0046,African Bush Elephant,Loxodonta africana,Mammalia,Proboscidea,Elephantidae,Loxodonta,Endangered (IUCN),"Savannas, Forests, Marshes",Herbivorous
+WILD_0047,African Forest Elephant,Loxodonta cyclotis,Mammalia,Proboscidea,Elephantidae,Loxodonta,Critically Endangered (IUCN),Dense Equatorial Rainforests,Herbivorous
+WILD_0048,Asian Elephant,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,Endangered (IUCN),Tropical Broadleaf Forests,Herbivorous
+WILD_0049,Plains Zebra,Equus quagga,Mammalia,Perissodactyla,Equidae,Equus,Near Threatened (IUCN),"Grasslands, Savannas",Herbivorous
+WILD_0050,Mountain Zebra,Equus zebra,Mammalia,Perissodactyla,Equidae,Equus,Vulnerable (IUCN),Mountainous Escarpments,Herbivorous
+WILD_0051,Grevy's Zebra,Equus grevyi,Mammalia,Perissodactyla,Equidae,Equus,Endangered (IUCN),"Arid Grasslands, Shrublands",Herbivorous
+WILD_0052,African Wild Ass,Equus africanus,Mammalia,Perissodactyla,Equidae,Equus,Critically Endangered (IUCN),"Arid Rocky Hills, Deserts",Herbivorous
+WILD_0053,Onager / Asiatic Wild Ass,Equus hemionus,Mammalia,Perissodactyla,Equidae,Equus,Near Threatened (IUCN),"Semi-deserts, Salt Basins",Herbivorous
+WILD_0054,White Rhinoceros,Ceratotherium simum,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,Near Threatened (IUCN),Savanna Grasslands,Herbivorous
+WILD_0055,Black Rhinoceros,Diceros bicornis,Mammalia,Perissodactyla,Rhinocerotidae,Diceros,Critically Endangered (IUCN),"Desert Scrub, Acacia Savanna",Herbivorous
+WILD_0056,Indian Rhinoceros,Rhinoceros unicornis,Mammalia,Perissodactyla,Rhinocerotidae,Rhinoceros,Vulnerable (IUCN),"Alluvial Floodplains, Riverine Forests",Herbivorous
+WILD_0057,Javan Rhinoceros,Rhinoceros sondaicus,Mammalia,Perissodactyla,Rhinocerotidae,Rhinoceros,Critically Endangered (IUCN),Dense Lowland Rainforests,Herbivorous
+WILD_0058,Sumatran Rhinoceros,Dicerorhinus sumatrensis,Mammalia,Perissodactyla,Rhinocerotidae,Dicerorhinus,Critically Endangered (IUCN),Tropical Montane Rainforests,Herbivorous
+WILD_0059,Malayan Tapir,Tapirus indicus,Mammalia,Perissodactyla,Tapiridae,Tapirus,Endangered (IUCN),Primary Lowland Rainforests,Herbivorous
+WILD_0060,Baird's Tapir,Tapirus bairdii,Mammalia,Perissodactyla,Tapiridae,Tapirus,Endangered (IUCN),"Cloud Forests, Rainforests",Herbivorous
+WILD_0061,Lowland Tapir,Tapirus terrestris,Mammalia,Perissodactyla,Tapiridae,Tapirus,Vulnerable (IUCN),Amazonian Riparian Forests,Herbivorous
+WILD_0062,Giraffe,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,Vulnerable (IUCN),"Savannas, Open Woodlands",Herbivorous
+WILD_0063,Okapi,Okapia johnstoni,Mammalia,Artiodactyla,Giraffidae,Okapia,Endangered (IUCN),Dense Rainforest Canopy of Ituri,Herbivorous
+WILD_0064,Hippopotamus,Hippopotamus amphibius,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,Vulnerable (IUCN),"Rivers, Lakes, Mangrove Swamps",Herbivorous
+WILD_0065,Pygmy Hippopotamus,Choeropsis liberiensis,Mammalia,Artiodactyla,Hippopotamidae,Choeropsis,Endangered (IUCN),Dense Forest Swamps,Herbivorous
+WILD_0066,African Buffalo / Cape Buffalo,Syncerus caffer,Mammalia,Artiodactyla,Bovidae,Syncerus,Near Threatened (IUCN),"Swamps, Floodplains, Grasslands",Herbivorous
+WILD_0067,American Bison,Bison bison,Mammalia,Artiodactyla,Bovidae,Bison,Near Threatened (IUCN),"Prairies, River Valleys",Herbivorous
+WILD_0068,European Bison / Wisent,Bison bonasus,Mammalia,Artiodactyla,Bovidae,Bison,Near Threatened (IUCN),Broadleaf and Mixed Woodlands,Herbivorous
+WILD_0069,Blue Wildebeest,Connochaetes taurinus,Mammalia,Artiodactyla,Bovidae,Connochaetes,Least Concern (IUCN),"Short Grass Plains, Acacia Savanna",Herbivorous
+WILD_0070,Black Wildebeest,Connochaetes gnou,Mammalia,Artiodactyla,Bovidae,Connochaetes,Least Concern (IUCN),Highveld Open Grasslands,Herbivorous
+WILD_0071,Impala,Aepyceros melampus,Mammalia,Artiodactyla,Bovidae,Aepyceros,Least Concern (IUCN),Savanna Woodlands,Herbivorous
+WILD_0072,Springbok,Antidorcas marsupialis,Mammalia,Artiodactyla,Bovidae,Antidorcas,Least Concern (IUCN),Dry Inland Shrublands,Herbivorous
+WILD_0073,Gemsbok / South African Oryx,Oryx gazella,Mammalia,Artiodactyla,Bovidae,Oryx,Least Concern (IUCN),"Arid Dunes, Kalahari Savanna",Herbivorous
+WILD_0074,Scimitar Oryx,Oryx dammah,Mammalia,Artiodactyla,Bovidae,Oryx,Endangered (IUCN),Sub-desert Steppes,Herbivorous
+WILD_0075,Greater Kudu,Tragelaphus strepsiceros,Mammalia,Artiodactyla,Bovidae,Tragelaphus,Least Concern (IUCN),"Thicket Woodlands, Rocky Slopes",Herbivorous
+WILD_0076,Bongo,Tragelaphus eurycerus,Mammalia,Artiodactyla,Bovidae,Tragelaphus,Near Threatened (IUCN),Lowland Dense Rainforests,Herbivorous
+WILD_0077,Eland,Taurotragus oryx,Mammalia,Artiodactyla,Bovidae,Taurotragus,Least Concern (IUCN),"Semi-arid Savannas, Foothills",Herbivorous
+WILD_0078,Sable Antelope,Hippotragus niger,Mammalia,Artiodactyla,Bovidae,Hippotragus,Least Concern (IUCN),Miombo Woodlands,Herbivorous
+WILD_0079,Ibex (Alpine / Nubian),Capra ibex,Mammalia,Artiodactyla,Bovidae,Capra,Least Concern (IUCN),Steep Rocky Slopes above Tree Line,Herbivorous
+WILD_0080,Markhor,Capra falconeri,Mammalia,Artiodactyla,Bovidae,Capra,Near Threatened (IUCN),"Scrub Forests, Deep Gorges",Herbivorous
+WILD_0081,Bighorn Sheep,Ovis canadensis,Mammalia,Artiodactyla,Bovidae,Ovis,Least Concern (IUCN),"Alpine Meadows, Rocky Cliffs",Herbivorous
+WILD_0082,Moose,Alces alces,Mammalia,Artiodactyla,Cervidae,Alces,Least Concern (IUCN),"Boreal Forests, Willow Marshes",Herbivorous
+WILD_0083,Red Deer / Elk,Cervus elaphus,Mammalia,Artiodactyla,Cervidae,Cervus,Least Concern (IUCN),Deciduous and Coniferous Woodlands,Herbivorous
+WILD_0084,Reindeer / Caribou,Rangifer tarandus,Mammalia,Artiodactyla,Cervidae,Rangifer,Vulnerable (IUCN),"Arctic Tundra, Boreal Taiga",Herbivorous
+WILD_0085,Fallow Deer,Dama dama,Mammalia,Artiodactyla,Cervidae,Dama,Least Concern (IUCN),Broadleaved Woodlands,Herbivorous
+WILD_0086,White-tailed Deer,Odocoileus virginianus,Mammalia,Artiodactyla,Cervidae,Odocoileus,Least Concern (IUCN),"Forest Margins, Meadows, River Bottoms",Herbivorous
+WILD_0087,Mule Deer,Odocoileus hemionus,Mammalia,Artiodactyla,Cervidae,Odocoileus,Least Concern (IUCN),"Chaparral, Mountain Shrublands",Herbivorous
+WILD_0088,Chital / Spotted Deer,Axis axis,Mammalia,Artiodactyla,Cervidae,Axis,Least Concern (IUCN),Dry and Moist Deciduous Forests,Herbivorous
+WILD_0089,Sambar Deer,Rusa unicolor,Mammalia,Artiodactyla,Cervidae,Rusa,Vulnerable (IUCN),"Dense Hill Slopes, Subtropical Forests",Herbivorous
+WILD_0090,Warthog,Phacochoerus africanus,Mammalia,Artiodactyla,Suidae,Phacochoerus,Least Concern (IUCN),"Open Savannas, Scrublands",Omnivorous
+WILD_0091,Wild Boar,Sus scrofa,Mammalia,Artiodactyla,Suidae,Sus,Least Concern (IUCN),Deciduous Broadleaf Forests,Omnivorous
+WILD_0092,Western Gorilla,Gorilla gorilla,Mammalia,Primates,Hominidae,Gorilla,Critically Endangered (IUCN),"Lowland Rainforests, Swamps",Herbivorous
+WILD_0093,Eastern Mountain Gorilla,Gorilla beringei beringei,Mammalia,Primates,Hominidae,Gorilla,Endangered (IUCN),Montane Cloud Forests of Virunga,Herbivorous
+WILD_0094,Chimpanzee,Pan troglodytes,Mammalia,Primates,Hominidae,Pan,Endangered (IUCN),"Primary Rainforests, Wooded Savannas",Omnivorous
+WILD_0095,Bonobo,Pan paniscus,Mammalia,Primates,Hominidae,Pan,Endangered (IUCN),Congo Basin Lowland Rainforests,Frugivorous / Folivorous
+WILD_0096,Bornean Orangutan,Pongo pygmaeus,Mammalia,Primates,Hominidae,Pongo,Critically Endangered (IUCN),Peat Swamp and Dipterocarp Forests,Frugivorous
+WILD_0097,Sumatran Orangutan,Pongo abelii,Mammalia,Primates,Hominidae,Pongo,Critically Endangered (IUCN),Tropical Montane Rainforests,Frugivorous
+WILD_0098,Ring-tailed Lemur,Lemur catta,Mammalia,Primates,Lemuridae,Lemur,Endangered (IUCN),"Spiny Forests, Gallery Forests of Madagascar",Herbivorous
+WILD_0099,Indri,Indri indri,Mammalia,Primates,Indriidae,Indri,Critically Endangered (IUCN),Eastern Lowland Rainforests of Madagascar,Folivorous
+WILD_0100,Aye-aye,Daubentonia madagascariensis,Mammalia,Primates,Daubentoniidae,Daubentonia,Endangered (IUCN),"Rainforest Canopy, Deciduous Thickets","Omnivorous (Wood-boring Larvae, Fruits)"
+WILD_0101,Mandrill,Mandrillus sphinx,Mammalia,Primates,Cercopithecidae,Mandrillus,Vulnerable (IUCN),"Equatorial Rainforests, Coastal Forests",Omnivorous
+WILD_0102,Olive Baboon,Papio anubis,Mammalia,Primates,Cercopithecidae,Papio,Least Concern (IUCN),"Savannas, Forests, Cliffs",Omnivorous
+WILD_0103,Chacma Baboon,Papio ursinus,Mammalia,Primates,Cercopithecidae,Papio,Least Concern (IUCN),"Woodlands, Semi-deserts, Coastal Cliffs",Omnivorous
+WILD_0104,Gelada Baboon,Theropithecus gelada,Mammalia,Primates,Cercopithecidae,Theropithecus,Least Concern (IUCN),Ethiopian Highland Montane Grasslands,Herbivorous (Graminivorous)
+WILD_0105,Proboscis Monkey,Nasalis larvatus,Mammalia,Primates,Cercopithecidae,Nasalis,Endangered (IUCN),"Mangrove Forests, Riverine Swamps of Borneo",Folivorous
+WILD_0106,Golden Snub-nosed Monkey,Rhinopithecus roxellana,Mammalia,Primates,Cercopithecidae,Rhinopithecus,Endangered (IUCN),Temperate Montane Forests of Central China,"Folivorous (Lichens, Leaves)"
+WILD_0107,Japanese Macaque / Snow Monkey,Macaca fuscata,Mammalia,Primates,Cercopithecidae,Macaca,Least Concern (IUCN),Evergreen and Deciduous Mountain Forests,Omnivorous
+WILD_0108,Rhesus Macaque,Macaca mulatta,Mammalia,Primates,Cercopithecidae,Macaca,Least Concern (IUCN),"Grasslands, Arid Areas, Urban Temples",Omnivorous
+WILD_0109,Golden Lion Tamarin,Leontopithecus rosalia,Mammalia,Primates,Callitrichidae,Leontopithecus,Endangered (IUCN),Atlantic Coastal Forests of Brazil,Omnivorous
+WILD_0110,Emperor Tamarin,Saguinus imperator,Mammalia,Primates,Callitrichidae,Saguinus,Least Concern (IUCN),Amazonian Lowland Rainforests,Omnivorous
+WILD_0111,Pygmy Marmoset,Cebuella pygmaea,Mammalia,Primates,Callitrichidae,Cebuella,Vulnerable (IUCN),Evergreen Riverine Canopy,"Gummivorous (Tree Gum, Sap, Insects)"
+WILD_0112,Red Kangaroo,Osphranter rufus,Mammalia,Diprotodontia,Macropodidae,Osphranter,Least Concern (IUCN),Arid Scrublands of Central Australia,Herbivorous
+WILD_0113,Eastern Gray Kangaroo,Macropus giganteus,Mammalia,Diprotodontia,Macropodidae,Macropus,Least Concern (IUCN),"Open Woodlands, Coastal Heathlands",Herbivorous
+WILD_0114,Western Gray Kangaroo,Macropus fuliginosus,Mammalia,Diprotodontia,Macropodidae,Macropus,Least Concern (IUCN),"Open Forests, Mallee Scrub",Herbivorous
+WILD_0115,Koala,Phascolarctos cinereus,Mammalia,Diprotodontia,Phascolarctidae,Phascolarctos,Vulnerable (IUCN),Eucalyptus Woodlands,Folivorous
+WILD_0116,Common Wombat,Vombatus ursinus,Mammalia,Diprotodontia,Vombatidae,Vombatus,Least Concern (IUCN),"Forested Slopes, Heathlands",Herbivorous
+WILD_0117,Tasmanian Devil,Sarcophilus harrisii,Mammalia,Dasyuromorphia,Dasyuridae,Sarcophilus,Endangered (IUCN),"Coastal Scrub, Sclerophyll Forests",Carnivorous
+WILD_0118,Platypus,Ornithorhynchus anatinus,Mammalia,Monotremata,Ornithorhynchidae,Ornithorhynchus,Near Threatened (IUCN),"Freshwater Streams, Billabongs",Carnivorous
+WILD_0119,Short-beaked Echidna,Tachyglossus aculeatus,Mammalia,Monotremata,Tachyglossidae,Tachyglossus,Least Concern (IUCN),"Forests, Scrublands, Deserts",Myrmecophagous
+WILD_0120,Quokka,Setonix brachyurus,Mammalia,Diprotodontia,Macropodidae,Setonix,Vulnerable (IUCN),Island Shrublands and Swamps,Herbivorous
+WILD_0121,Sugar Glider,Petaurus breviceps,Mammalia,Diprotodontia,Petauridae,Petaurus,Least Concern (IUCN),Rainforest and Plantation Canopy,Omnivorous
+WILD_0122,Tree Kangaroo (Goodfellow's),Dendrolagus goodfellowi,Mammalia,Diprotodontia,Macropodidae,Dendrolagus,Endangered (IUCN),Tropical Montane Rainforest Canopy,Folivorous
+WILD_0123,Blue Whale,Balaenoptera musculus,Mammalia,Artiodactyla (Cetacea),Balaenopteridae,Balaenoptera,Endangered (IUCN),Polar and Temperate Pelagic Oceans,Planktivorous (Krill)
+WILD_0124,Humpback Whale,Megaptera novaeangliae,Mammalia,Artiodactyla (Cetacea),Balaenopteridae,Megaptera,Least Concern (IUCN),Polar Feeding and Tropical Calving Seas,Carnivorous
+WILD_0125,Fin Whale,Balaenoptera physalus,Mammalia,Artiodactyla (Cetacea),Balaenopteridae,Balaenoptera,Vulnerable (IUCN),Deep Offshore Oceans,Carnivorous
+WILD_0126,Orca / Killer Whale,Orcinus orca,Mammalia,Artiodactyla (Cetacea),Delphinidae,Orcinus,Data Deficient (IUCN),Global Oceans,Carnivorous
+WILD_0127,Bottlenose Dolphin,Tursiops truncatus,Mammalia,Artiodactyla (Cetacea),Delphinidae,Tursiops,Least Concern (IUCN),"Coastal Inlets, Harbors",Piscivorous
+WILD_0128,Beluga Whale,Delphinapterus leucas,Mammalia,Artiodactyla (Cetacea),Monodontidae,Delphinapterus,Least Concern (IUCN),"Arctic Coastal Estuaries, Sea Ice",Piscivorous
+WILD_0129,Narwhal,Monodon monoceros,Mammalia,Artiodactyla (Cetacea),Monodontidae,Monodon,Least Concern (IUCN),Arctic Deep Ice-covered Fjords,Piscivorous
+WILD_0130,Walrus,Odobenus rosmarus,Mammalia,Carnivora (Pinnipedia),Odobenidae,Odobenus,Vulnerable (IUCN),"Arctic Continental Shelf, Pack Ice",Benthic Carnivore
+WILD_0131,California Sea Lion,Zalophus californianus,Mammalia,Carnivora (Pinnipedia),Otariidae,Zalophus,Least Concern (IUCN),"Rocky Coastlines, Sandy Beaches",Piscivorous
+WILD_0132,Leopard Seal,Hydrurga leptonyx,Mammalia,Carnivora (Pinnipedia),Phocidae,Hydrurga,Least Concern (IUCN),Antarctic Pack Ice,"Carnivorous (Penguins, Fish)"
+WILD_0133,Elephant Seal (Southern),Mirounga leonina,Mammalia,Carnivora (Pinnipedia),Phocidae,Mirounga,Least Concern (IUCN),Subantarctic Islands and Pelagic Oceans,"Piscivorous (Squid, Deep Fish)"
+WILD_0134,Bald Eagle,Haliaeetus leucocephalus,Aves,Accipitriformes,Accipitridae,Haliaeetus,Least Concern (IUCN),"Lakes, Coastal Estuaries",Piscivorous / Carnivorous
+WILD_0135,Golden Eagle,Aquila chrysaetos,Aves,Accipitriformes,Accipitridae,Aquila,Least Concern (IUCN),"Open Mountain Cliffs, Tundra",Carnivorous
+WILD_0136,Harpy Eagle,Harpia harpyja,Aves,Accipitriformes,Accipitridae,Harpia,Vulnerable (IUCN),Neotropical Emergent Rainforest Canopy,Carnivorous
+WILD_0137,Steller's Sea Eagle,Haliaeetus pelagicus,Aves,Accipitriformes,Accipitridae,Haliaeetus,Vulnerable (IUCN),"Sea Coasts, Rocky Estuaries of Sea of Okhotsk",Piscivorous
+WILD_0138,Martial Eagle,Polemaetus bellicosus,Aves,Accipitriformes,Accipitridae,Polemaetus,Endangered (IUCN),Open Wooded Savannas,Carnivorous
+WILD_0139,Peregrine Falcon,Falco peregrinus,Aves,Falconiformes,Falconidae,Falco,Least Concern (IUCN),"High Sea Cliffs, Canyons, Skyscrapers",Carnivorous
+WILD_0140,Gyrfalcon,Falco rusticolus,Aves,Falconiformes,Falconidae,Falco,Least Concern (IUCN),"Arctic Tundra, Alpine Crags",Carnivorous
+WILD_0141,Great Horned Owl,Bubo virginianus,Aves,Strigiformes,Strigidae,Bubo,Least Concern (IUCN),"Forests, Deserts, Scrublands",Carnivorous
+WILD_0142,Snowy Owl,Bubo scandiacus,Aves,Strigiformes,Strigidae,Bubo,Vulnerable (IUCN),Arctic Coastal Tundra,Carnivorous
+WILD_0143,Eurasian Eagle-Owl,Bubo bubo,Aves,Strigiformes,Strigidae,Bubo,Least Concern (IUCN),"Rocky Cliffs, Deep Forests",Carnivorous
+WILD_0144,Barn Owl,Tyto alba,Aves,Strigiformes,Tytonidae,Tyto,Least Concern (IUCN),"Grasslands, Barns, Caves",Carnivorous
+WILD_0145,Indian Peafowl,Pavo cristatus,Aves,Galliformes,Phasianidae,Pavo,Least Concern (IUCN),"Deciduous Forests, Scrublands",Omnivorous
+WILD_0146,Green Peafowl,Pavo muticus,Aves,Galliformes,Phasianidae,Pavo,Endangered (IUCN),Tropical Dry Deciduous Forests,Omnivorous
+WILD_0147,Greater Flamingo,Phoenicopterus roseus,Aves,Phoenicopteriformes,Phoenicopteridae,Phoenicopterus,Least Concern (IUCN),"Saline Lagoons, Mudflats",Filter-feeder
+WILD_0148,Chilean Flamingo,Phoenicopterus chilensis,Aves,Phoenicopteriformes,Phoenicopteridae,Phoenicopterus,Near Threatened (IUCN),Alkaline Lakes of Andes,Filter-feeder
+WILD_0149,Emperor Penguin,Aptenodytes forsteri,Aves,Sphenisciformes,Spheniscidae,Aptenodytes,Near Threatened (IUCN),"Antarctic Fast Ice, Deep Polar Waters",Carnivorous
+WILD_0150,King Penguin,Aptenodytes patagonicus,Aves,Sphenisciformes,Spheniscidae,Aptenodytes,Least Concern (IUCN),Subantarctic Islands,Piscivorous
+WILD_0151,Adélie Penguin,Pygoscelis adeliae,Aves,Sphenisciformes,Spheniscidae,Pygoscelis,Least Concern (IUCN),Antarctic Rocky Coasts,"Carnivorous (Krill, Fish)"
+WILD_0152,Gentoo Penguin,Pygoscelis papua,Aves,Sphenisciformes,Spheniscidae,Pygoscelis,Least Concern (IUCN),Subantarctic Grasslands and Shores,Piscivorous
+WILD_0153,Common Ostrich,Struthio camelus,Aves,Struthioniformes,Struthionidae,Struthio,Least Concern (IUCN),"Arid Savannas, Sahelian Scrub",Omnivorous
+WILD_0154,Emu,Dromaius novaehollandiae,Aves,Casuariiformes,Dromaiidae,Dromaius,Least Concern (IUCN),Savanna Woodlands of Australia,Omnivorous
+WILD_0155,Southern Cassowary,Casuarius casuarius,Aves,Casuariiformes,Casuariidae,Casuarius,Least Concern (IUCN),Tropical Rainforests of Queensland,Frugivorous
+WILD_0156,Scarlet Macaw,Ara macao,Aves,Psittaciformes,Psittacidae,Ara,Least Concern (IUCN),Humid Evergreen Rainforests,Frugivorous / Granivorous
+WILD_0157,Blue-and-yellow Macaw,Ara ararauna,Aves,Psittaciformes,Psittacidae,Ara,Least Concern (IUCN),"Gallery Woodlands, Swamps",Frugivorous
+WILD_0158,Hyacinth Macaw,Anodorhynchus hyacinthinus,Aves,Psittaciformes,Psittacidae,Anodorhynchus,Vulnerable (IUCN),Pantanal Palm Groves and Cerrado,Granivorous (Palm Nuts)
+WILD_0159,Kakapo,Strigops habroptilus,Aves,Psittaciformes,Strigopidae,Strigops,Critically Endangered (IUCN),Podocarp Forests of New Zealand Islands,Herbivorous
+WILD_0160,Toco Toucan,Ramphastos toco,Aves,Piciformes,Ramphastidae,Ramphastos,Least Concern (IUCN),"Semi-open Savannas, Forest Edges",Frugivorous
+WILD_0161,Atlantic Puffin,Fratercula arctica,Aves,Charadriiformes,Alcidae,Fratercula,Vulnerable (IUCN),"North Atlantic Ocean, Turf Sea Cliffs",Piscivorous
+WILD_0162,Shoebill,Balaeniceps rex,Aves,Pelecaniformes,Balaenicipitidae,Balaeniceps,Vulnerable (IUCN),Papyrus Swamps of Central Africa,Carnivorous (Lungfish)
+WILD_0163,Great White Pelican,Pelecanus onocrotalus,Aves,Pelecaniformes,Pelecanidae,Pelecanus,Least Concern (IUCN),"Shallow Lakes, River Deltas",Piscivorous
+WILD_0164,Wandering Albatross,Diomedea exulans,Aves,Procellariiformes,Diomedeidae,Diomedea,Vulnerable (IUCN),Southern Ocean Pelagic Waters,Piscivorous
+WILD_0165,Resplendent Quetzal,Pharomachrus mocinno,Aves,Trogoniformes,Trogonidae,Pharomachrus,Near Threatened (IUCN),Montane Cloud Forests of Central America,Frugivorous (Wild Avocados)
+WILD_0166,Superb Bird-of-paradise,Lophorina superba,Aves,Passeriformes,Paradisaeidae,Lophorina,Least Concern (IUCN),Montane Rainforests of New Guinea,Frugivorous / Insectivorous
+WILD_0167,Saltwater Crocodile,Crocodylus porosus,Reptilia,Crocodilia,Crocodylidae,Crocodylus,Least Concern (IUCN),"Estuaries, Mangrove Swamps",Carnivorous
+WILD_0168,Nile Crocodile,Crocodylus niloticus,Reptilia,Crocodilia,Crocodylidae,Crocodylus,Least Concern (IUCN),"African Rivers, Lakes, Marshes",Carnivorous
+WILD_0169,American Alligator,Alligator mississippiensis,Reptilia,Crocodilia,Alligatoridae,Alligator,Least Concern (IUCN),"Freshwater Swamps, Bayous",Carnivorous
+WILD_0170,Black Caiman,Melanosuchus niger,Reptilia,Crocodilia,Alligatoridae,Melanosuchus,Conservation Dependent (IUCN),"Slow Rivers, Flooded Forests of Amazon",Carnivorous
+WILD_0171,Gharial,Gavialis gangeticus,Reptilia,Crocodilia,Gavialidae,Gavialis,Critically Endangered (IUCN),Fast-flowing Deep Rivers of India,Piscivorous
+WILD_0172,Komodo Dragon,Varanus komodoensis,Reptilia,Squamata,Varanidae,Varanus,Endangered (IUCN),Dry Savannas and Monsoon Forests of Flores,Carnivorous
+WILD_0173,Perentie,Varanus giganteus,Reptilia,Squamata,Varanidae,Varanus,Least Concern (IUCN),Arid Sand Dunes and Rock Outcrops of Australia,Carnivorous
+WILD_0174,Green Sea Turtle,Chelonia mydas,Reptilia,Testudines,Cheloniidae,Chelonia,Endangered (IUCN),"Pelagic Oceans, Coral Reefs",Herbivorous
+WILD_0175,Leatherback Sea Turtle,Dermochelys coriacea,Reptilia,Testudines,Dermochelyidae,Dermochelys,Vulnerable (IUCN),Epipelagic Open Oceans,Carnivorous (Jellyfish)
+WILD_0176,Hawksbill Sea Turtle,Eretmochelys imbricata,Reptilia,Testudines,Cheloniidae,Eretmochelys,Critically Endangered (IUCN),Tropical Coral Reefs,Spongivorous
+WILD_0177,Loggerhead Sea Turtle,Caretta caretta,Reptilia,Testudines,Cheloniidae,Caretta,Vulnerable (IUCN),"Coastal Bays, Estuaries, Reefs","Carnivorous (Crabs, Mollusks)"
+WILD_0178,Galapagos Giant Tortoise,Chelonoidis niger,Reptilia,Testudines,Testudinidae,Chelonoidis,Vulnerable (IUCN),Volcanic Slopes and Dry Scrub of Galapagos,Herbivorous
+WILD_0179,Aldabra Giant Tortoise,Aldabrachelys gigantea,Reptilia,Testudines,Testudinidae,Aldabrachelys,Vulnerable (IUCN),Mangrove Swamps and Scrub of Aldabra Atoll,Herbivorous
+WILD_0180,King Cobra,Ophiophagus hannah,Reptilia,Squamata,Elapidae,Ophiophagus,Vulnerable (IUCN),Dense Rainforests of South/Southeast Asia,Ophiophagous
+WILD_0181,Black Mamba,Dendroaspis polylepis,Reptilia,Squamata,Elapidae,Dendroaspis,Least Concern (IUCN),"Savannas, Rocky Hills, Lowland Forests",Carnivorous
+WILD_0182,Green Anaconda,Eunectes murinus,Reptilia,Squamata,Boidae,Eunectes,Least Concern (IUCN),"Amazon Basin Swamps, Slow Streams",Carnivorous
+WILD_0183,Reticulated Python,Malayopython reticulatus,Reptilia,Squamata,Pythonidae,Malayopython,Least Concern (IUCN),"Rainforests, Woodlands, Urban Canals",Carnivorous
+WILD_0184,Gila Monster,Heloderma suspectum,Reptilia,Squamata,Helodermatidae,Heloderma,Near Threatened (IUCN),Mojave and Sonoran Deserts,Carnivorous (Bird/Reptile Eggs)
+WILD_0185,Veiled Chameleon,Chamaeleo calyptratus,Reptilia,Squamata,Chamaeleonidae,Chamaeleo,Least Concern (IUCN),Mountain Plateaus and Valleys of Yemen,Insectivorous
+WILD_0186,Panther Chameleon,Furcifer pardalis,Reptilia,Squamata,Chamaeleonidae,Furcifer,Least Concern (IUCN),Coastal Lowland Rainforests of Madagascar,Insectivorous
+WILD_0187,Thorny Devil,Moloch horridus,Reptilia,Squamata,Agamidae,Moloch,Least Concern (IUCN),Arid Spinifex Sand Plains of Australia,Myrmecophagous
+WILD_0188,Marine Iguana,Amblyrhynchus cristatus,Reptilia,Squamata,Iguanidae,Amblyrhynchus,Vulnerable (IUCN),Rocky Shorelines and Subtidal Reefs of Galapagos,Herbivorous (Marine Algae)
+WILD_0189,Green Iguana,Iguana iguana,Reptilia,Squamata,Iguanidae,Iguana,Least Concern (IUCN),Tropical Rainforest Canopy near Water,Herbivorous
+WILD_0190,Tuatara,Sphenodon punctatus,Reptilia,Rhynchocephalia,Sphenodontidae,Sphenodon,Least Concern (IUCN),Offshore Islet Burrows of New Zealand,Carnivorous
+WILD_0191,Poison Dart Frog (Dyeing),Dendrobates tinctorius,Amphibia,Anura,Dendrobatidae,Dendrobates,Least Concern (IUCN),Tropical Rainforest Leaf Litter,Insectivorous
+WILD_0192,Golden Poison Frog,Phyllobates terribilis,Amphibia,Anura,Dendrobatidae,Phyllobates,Endangered (IUCN),Pacific Lowland Rainforest of Colombia,Insectivorous
+WILD_0193,Red-eyed Tree Frog,Agalychnis callidryas,Amphibia,Anura,Hylidae,Agalychnis,Least Concern (IUCN),Neotropical Canopy and Epiphytes,Insectivorous
+WILD_0194,Goliath Frog,Conraua goliath,Amphibia,Anura,Conrauidae,Conraua,Endangered (IUCN),Fast-flowing Forest Rivers of Cameroon,Carnivorous
+WILD_0195,Axolotl,Ambystoma mexicanum,Amphibia,Caudata,Ambystomatidae,Ambystoma,Critically Endangered (IUCN),Lake Xochimilco Canals,Carnivorous
+WILD_0196,Chinese Giant Salamander,Andrias davidianus,Amphibia,Caudata,Cryptobranchidae,Andrias,Critically Endangered (IUCN),Montane Rocky Freshwater Streams,Carnivorous
+WILD_0197,Great White Shark,Carcharodon carcharias,Chondrichthyes,Lamniformes,Lamnidae,Carcharodon,Vulnerable (IUCN),Coastal and Epipelagic Waters,Carnivorous
+WILD_0198,Tiger Shark,Galeocerdo cuvier,Chondrichthyes,Carcharhiniformes,Carcharhinidae,Galeocerdo,Near Threatened (IUCN),Tropical and Subtropical Coastal Inlets,Carnivorous (Apex Opportunist)
+WILD_0199,Whale Shark,Rhincodon typus,Chondrichthyes,Orectolobiformes,Rhincodontidae,Rhincodon,Endangered (IUCN),Tropical Pelagic Oceans,Filter-feeder
+WILD_0200,Manta Ray,Mobula birostris,Chondrichthyes,Myliobatiformes,Mobulidae,Mobula,Endangered (IUCN),Pelagic Waters near Seamounts,Filter-feeder
+WILD_0201,Clownfish / Anemonefish,Amphiprion ocellaris,Actinopterygii,Perciformes,Pomacentridae,Amphiprion,Least Concern (IUCN),Coral Reef Sea Anemones,Omnivorous
+WILD_0202,Blue Tang,Paracanthurus hepatus,Actinopterygii,Perciformes,Acanthuridae,Paracanthurus,Least Concern (IUCN),Clear Inshore Reef Terraces,Herbivorous (Algae)
+WILD_0203,Mahi-mahi / Dorado,Coryphaena hippurus,Actinopterygii,Perciformes,Coryphaenidae,Coryphaena,Least Concern (IUCN),Tropical and Subtropical Open Surface Waters,Piscivorous
+WILD_0204,Arapaima / Pirarucu,Arapaima gigas,Actinopterygii,Osteoglossiformes,Arapaimidae,Arapaima,Data Deficient (IUCN),Amazon River Basin Floodplain Lakes,"Carnivorous (Fish, Birds)"
+WILD_0205,Coelacanth (West Indian Ocean),Latimeria chalumnae,Sarcopterygii,Coelacanthiformes,Latimeriidae,Latimeria,Critically Endangered (IUCN),Deep Volcanic Marine Caves (150-700m),Piscivorous
+WILD_0206,Hummingbird,Archilochus colubris,Aves,Apodiformes,Trochilidae,Archilochus,Least Concern (IUCN),"Deciduous Woodlands, Gardens",Nectarivorous
+WILD_0207,Kingfisher (Common),Alcedo atthis,Aves,Coraciiformes,Alcedinidae,Alcedo,Least Concern (IUCN),"Clear Streams, Lakes, Canals",Piscivorous
+WILD_0208,Hornbill (Great),Buceros bicornis,Aves,Bucerotiformes,Bucerotidae,Buceros,Vulnerable (IUCN),Evergreen Dense Rainforests,Frugivorous / Carnivorous
+WILD_0209,Secretarybird,Sagittarius serpentarius,Aves,Accipitriformes,Sagittariidae,Sagittarius,Endangered (IUCN),"Open Savannas, Grasslands","Carnivorous (Snakes, Rodents)"
+WILD_0210,Kookaburra (Laughing),Dacelo novaeguineae,Aves,Coraciiformes,Alcedinidae,Dacelo,Least Concern (IUCN),Dry Eucalypt Forests,"Carnivorous (Insects, Reptiles)"
+WILD_0211,Lyrebird (Superb),Menura novaehollandiae,Aves,Passeriformes,Menuridae,Menura,Least Concern (IUCN),Wet Sclerophyll Forests,Insectivorous (Soil Invertebrates)
+WILD_0212,Albatross (Black-browed),Thalassarche melanophris,Aves,Procellariiformes,Diomedeidae,Thalassarche,Least Concern (IUCN),Subantarctic Oceans and Cliffs,"Carnivorous (Squid, Fish)"
+WILD_0213,Stork (Marabou),Leptoptilos crumenifer,Aves,Ciconiiformes,Ciconiidae,Leptoptilos,Least Concern (IUCN),"Savannas, Fishing Villages, Swamps",Carnivorous (Scavenger)
+WILD_0214,Crane (Sarus),Antigone antigone,Aves,Gruiformes,Gruidae,Antigone,Vulnerable (IUCN),"Alluvial Wetlands, Flooded Paddy Fields",Omnivorous
+WILD_0215,Crane (Whooping),Grus americana,Aves,Gruiformes,Gruidae,Grus,Endangered (IUCN),"Marshes, Shallow Estuaries",Omnivorous
+WILD_0216,Eagle (Bateleur),Terathopius ecaudatus,Aves,Accipitriformes,Accipitridae,Terathopius,Endangered (IUCN),"Open Woodlands, Acacia Savanna",Carnivorous
+WILD_0217,Heron (Goliath),Ardea goliath,Aves,Pelecaniformes,Ardeidae,Ardea,Least Concern (IUCN),"Large Lakes, Reedy Marshes",Piscivorous
+WILD_0218,Swift (Common),Apus apus,Aves,Apodiformes,Apodidae,Apus,Least Concern (IUCN),"Open Airspaces, Urban Cliffs",Insectivorous (Aerial Plankton)
+WILD_0219,Jay (Eurasian),Garrulus glandarius,Aves,Passeriformes,Corvidae,Garrulus,Least Concern (IUCN),Oak and Beech Forests,"Omnivorous (Acorns, Insects)"
+WILD_0220,Cat,Felis catus,Mammalia,Carnivora,Felidae,Felis,Domesticated,Various,Carnivorous
+WILD_0221,Dog,Canis lupus familiaris,Mammalia,Carnivora,Canidae,Canis,Domesticated,Various,Omnivorous
+WILD_0222,Cow,Bos taurus,Mammalia,Artiodactyla,Bovidae,Bos,Domesticated,Pastures,Herbivorous
+WILD_0223,Horse,Equus caballus,Mammalia,Perissodactyla,Equidae,Equus,Domesticated,Pastures,Herbivorous
+WILD_0224,Bird,Aves,Aves,Various,Various,Various,Varies,Various,Varies
+WILD_0225,Deer,Cervidae,Mammalia,Artiodactyla,Cervidae,Various,Varies,"Forests, Meadows",Herbivorous
+WILD_0226,Elephant,Elephantidae,Mammalia,Proboscidea,Elephantidae,Loxodonta / Elephas,Varies,"Savannas, Forests",Herbivorous
+WILD_0227,Zebra,Equus zebra,Mammalia,Perissodactyla,Equidae,Equus,Varies,Savannas,Herbivorous

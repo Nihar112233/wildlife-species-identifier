@@ -1,0 +1,93 @@
+{
+  "0": {
+    "class_index": 0,
+    "species_id": "SP_000",
+    "common_name": "African Elephant",
+    "scientific_name": "African_elephant sp.",
+    "family": "Unknown",
+    "genus": "African",
+    "order": "N/A",
+    "class": "Mammalia",
+    "conservation_status": "Not Evaluated",
+    "habitat": "Terrestrial",
+    "diet": "Not Available"
+  },
+  "1": {
+    "class_index": 1,
+    "species_id": "WILD_0002",
+    "common_name": "Bengal Tiger",
+    "scientific_name": "Panthera tigris tigris",
+    "family": "Felidae",
+    "genus": "Panthera",
+    "order": "Carnivora",
+    "class": "Mammalia",
+    "conservation_status": "Endangered (IUCN)",
+    "habitat": "Tropical Forests, Mangroves",
+    "diet": "Carnivorous"
+  },
+  "2": {
+    "class_index": 2,
+    "species_id": "WILD_0037",
+    "common_name": "Brown Bear / Grizzly",
+    "scientific_name": "Ursus arctos",
+    "family": "Ursidae",
+    "genus": "Ursus",
+    "order": "Carnivora",
+    "class": "Mammalia",
+    "conservation_status": "Least Concern (IUCN)",
+    "habitat": "Forests, Alpine Meadows, Tundra",
+    "diet": "Omnivorous"
+  },
+  "3": {
+    "class_index": 3,
+    "species_id": "WILD_0041",
+    "common_name": "Giant Panda",
+    "scientific_name": "Ailuropoda melanoleuca",
+    "family": "Ursidae",
+    "genus": "Ailuropoda",
+    "order": "Carnivora",
+    "class": "Mammalia",
+    "conservation_status": "Vulnerable (IUCN)",
+    "habitat": "Montane Bamboo Forests",
+    "diet": "Herbivorous"
+  },
+  "4": {
+    "class_index": 4,
+    "species_id": "WILD_0001",
+    "common_name": "African Lion",
+    "scientific_name": "Panthera leo",
+    "family": "Felidae",
+    "genus": "Panthera",
+    "order": "Carnivora",
+    "class": "Mammalia",
+    "conservation_status": "Vulnerable (IUCN)",
+    "habitat": "Savannas, Grasslands",
+    "diet": "Carnivorous"
+  },
+  "5": {
+    "class_index": 5,
+    "species_id": "WILD_0049",
+    "common_name": "Plains Zebra",
+    "scientific_name": "Equus quagga",
+    "family": "Equidae",
+    "genus": "Equus",
+    "order": "Perissodactyla",
+    "class": "Mammalia",
+    "conservation_status": "Near Threatened (IUCN)",
+    "habitat": "Grasslands, Savannas",
+    "diet": "Herbivorous"
+  },
+  "6": {
+    "class_index": 6,
+    "species_id": "WILD_0023",
+    "common_name": "Red Fox",
+    "scientific_name": "Vulpes vulpes",
+    "family": "Canidae",
+    "genus": "Vulpes",
+    "order": "Carnivora",
+    "class": "Mammalia",
+    "conservation_status": "Least Concern (IUCN)",
+    "habitat": "Forests, Grasslands, Alpine, Suburban",
+    "diet": "Omnivorous"
+  }
+}
